@@ -36,7 +36,7 @@ description_footer: 来自曹金涛的网络笔记！
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: 400398fbf077cc5a95f02e110761e6ae
-# google_analytics_id: UA-72449510-4 # google 分析追踪id
+google_analytics_id: UA-130256283-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
